@@ -1,1 +1,23 @@
-{"encoding": "base64", "content": "IyBDb2RlSWduaXRlciBEb2N1bWVudGF0aW9uIEFyY2hpdmUKCkFuIG9yZ2FuaXplZCBhcmNoaXZlIG9mIENvZGVJZ25pdGVyIGRvY3VtZW50YXRpb24gd2l0aCBzY3JlZW5zaG90cyBhbmQgZXh0cmFjdGVkIGNvbnRlbnQuCgojIyBTdHJ1Y3R1cmUKCi0gYC9zY3JlZW5zaG90c2AgLSBDb250YWlucyBzY3JlZW5zaG90cyBvZiBlYWNoIGRvY3VtZW50YXRpb24gcGFnZQotIGAvY29udGVudGAgLSBDb250YWlucyBleHRyYWN0ZWQgdGV4dCBjb250ZW50IGZyb20gdGhlIGRvY3VtZW50YXRpb24KLSBgL3NlY3Rpb25zYCAtIERvY3VtZW50YXRpb24gb3JnYW5pemVkIGJ5IG1ham9yIHNlY3Rpb25zCgojIyBTZWN0aW9ucwoKMS4gV2VsY29tZSB0byBDb2RlSWduaXRlcjQKMi4gSW5zdGFsbGF0aW9uCjMuIEJ1aWxkIFlvdXIgRmlyc3QgQXBwbGljYXRpb24KNC4gQ29kZUlnbml0ZXI0IE92ZXJ2aWV3CjUuIEdlbmVyYWwgVG9waWNzCjYuIERhdGFiYXNlIEd1aWRlCjcuIExpYnJhcmllcwo4LiBIZWxwZXJzCjkuIFRlc3RpbmcKMTAuIENMSSBVc2FnZQoxMS4gRXh0ZW5kaW5nIENvZGVJZ25pdGVy"}
+# CodeIgniter Documentation Archive
+
+An organized archive of CodeIgniter documentation with screenshots and extracted content.
+
+## Structure
+
+- `/screenshots` - Contains screenshots of each documentation page
+- `/content` - Contains extracted text content from the documentation
+- `/sections` - Documentation organized by major sections
+
+## Sections
+
+1. Welcome to CodeIgniter4
+2. Installation
+3. Build Your First Application
+4. CodeIgniter4 Overview
+5. General Topics
+6. Database Guide
+7. Libraries
+8. Helpers
+9. Testing
+10. CLI Usage
+11. Extending CodeIgniter
